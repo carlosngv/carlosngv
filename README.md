@@ -9,12 +9,12 @@ class CarlosNgv99:
     def __init__(self):
         self.username = 'carlosngv99'
         self.name = 'Carlos NG'
-        self.code = {
-            'languages': ['Python', 'JavaScript', 'TypeScript','Java', 'C#', 'C++', 'Go']
+        self.languages = ['Python', 'JavaScript', 'TypeScript','Java', 'C#', 'C++', 'Go']
+        self.technologies = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Angular', 'Boostrap'],
-            'backend': ['Python', 'PHP', 'Django', 'NodeJS'],
+            'backend': ['PHP', 'Django', 'NodeJS'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'tools': ['GIT', 'GitHub'],
+            'tools': ['GIT', 'GitHub']
         }
 
     def __str__(self):
