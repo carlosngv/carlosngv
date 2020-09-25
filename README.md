@@ -1,7 +1,7 @@
-### <img align="center" src="https://media.giphy.com/media/uFlGZaUeQ7rv6B55io/giphy.gif" width="100">
+## Hello, folks 🐍
 
 
-###  About me...  <img align="center" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="100">
+####  About me...  <img align="center" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="100">
 
 <hr>
 
