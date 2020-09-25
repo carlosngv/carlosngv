@@ -3,8 +3,6 @@
 
 ####  About me...  <img align="center" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="100">
 
-<hr>
-
 ```python
 class CarlosNgv99:
 
