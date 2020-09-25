@@ -39,6 +39,15 @@ if __name__ == '__main__':
  <hr>
  
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosngv99">
+ 
+ <hr>
+ 
 
+<a href="https://github.com/CarlosNgv99/EjeDelMundo-API">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosngv99&repo=EjeDelMundo-API" />
+</a>
+<a href="https://github.com/CarlosNgv99/Restaurant-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosNgv99&repo=Restaurant-App" />
+</a>
 
 
