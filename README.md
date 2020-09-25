@@ -3,6 +3,8 @@
 
 ###  About me...  <img align="center" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="100">
 
+<hr>
+
 ```python
 class CarlosNgv99:
 
@@ -32,7 +34,11 @@ if __name__ == '__main__':
 [![GitHub CarlosNgv99](https://img.shields.io/github/followers/carlosngv99?label=follow&style=social)](https://github.com/carlosngv99)
 
 
+<hr>
+
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosngv99&&show_icons=true&title_color=000000&icon_color=00B3B9&text_color=000000&bg_color=ffffff">
+ 
+ <hr>
  
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosngv99">
 
