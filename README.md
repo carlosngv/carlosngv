@@ -12,7 +12,7 @@ class CarlosNgv99:
         self.username = 'carlosngv99'
         self.name = 'Carlos NG'
         self.code = {
-            'languages': ['Python', 'JavaScript', 'Java', 'C#', 'C++', 'Go']
+            'languages': ['Python', 'JavaScript', 'TypeScript','Java', 'C#', 'C++', 'Go']
             'frontend': ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Angular', 'Boostrap'],
             'backend': ['Python', 'PHP', 'Django', 'NodeJS'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
