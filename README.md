@@ -1,7 +1,7 @@
 ## Hello, folks 🐍
 
 
-####  About me...  <img align="center" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="100">
+####  🤨 Un poco acerca de mi...
 
 ```python
 class CarlosNgv99:
