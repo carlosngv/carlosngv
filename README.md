@@ -8,11 +8,11 @@ class CarlosNgv99:
 
     def __init__(self):
         self.__username = 'carlosngv99'
-        self.__name = 'Carlos NG'
-        self.__languages = ['Python', 'JavaScript', 'TypeScript','Java', 'C#', 'C++', 'Go']
-        self.__technologies = {
+        self.__name = 'Carlos NG',
+        self.__code = {
+            'languages' = ['Python', 'JavaScript', 'TypeScript','Java', 'C#', 'C++', 'Go'],
             'frontend': ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Angular', 'Boostrap'],
-            'backend': ['PHP', 'Django', 'NodeJS'],
+            'backend': ['Django', 'NodeJS'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
             'tools': ['GIT', 'GitHub']
         }
