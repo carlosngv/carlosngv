@@ -1,7 +1,7 @@
 ## Hello, folks 🐍
 
 
-####  🤨 Un poco acerca de mi...
+#### About me 🤨
 
 ```python
 class CarlosNgv99:
