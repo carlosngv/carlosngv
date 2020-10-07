@@ -14,7 +14,7 @@ class CarlosNgv99:
             'frontend': ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Angular', 'Boostrap'],
             'backend': ['Django', 'NodeJS'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'tools': ['GIT', 'GitHub']
+            'tools': ['GIT', 'GitHub', 'Docker']
         }
 
     def __str__(self):
