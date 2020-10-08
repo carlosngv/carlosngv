@@ -46,8 +46,8 @@ if __name__ == '__main__':
 <a href="https://github.com/CarlosNgv99/EjeDelMundo-API">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosngv99&repo=EjeDelMundo-API" />
 </a>
-<a href="https://github.com/CarlosNgv99/Restaurant-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosNgv99&repo=Restaurant-App" />
+<a href="https://github.com/CarlosNgv99/chat-nodejs-angular">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosNgv99&repo=chat-nodejs-angular" />
 </a>
 
 
