@@ -13,7 +13,7 @@ class CarlosNgv99:
             'languages' = ['Python', 'JavaScript', 'TypeScript','Java', 'C#', 'C++', 'Go'],
             'frontend': ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Angular', 'Boostrap'],
             'backend': ['Django', 'NodeJS'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
+            'database': ['MySQL', 'SQLite', 'Mongo DB', 'Oracle DB'],
             'tools': ['GIT', 'GitHub', 'Docker']
         }
 
