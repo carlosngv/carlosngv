@@ -38,8 +38,8 @@ if __name__ == '__main__':
  
  <hr>
  
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosngv99">
- 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosngv99&layout=compact">
+
  <hr>
  
 
