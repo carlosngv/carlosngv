@@ -32,10 +32,6 @@ if __name__ == '__main__':
     me = Carlosngv()
 
 ```
----
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosngv&layout=compact)](https://github.com/carlosngv/github-readme-stats)
-
 
 ---
 
