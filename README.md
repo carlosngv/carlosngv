@@ -10,10 +10,10 @@
 
 
 ```python
-class CarlosNgv99:
+class Carlosngv:
 
     def __init__(self):
-        self.__username = 'carlosngv99'
+        self.__username = 'carlosngv'
         self.__name = 'Carlos NG',
         self.__skills = {
             'languages' = ['Python', 'JavaScript', 'TypeScript','Java', 'C#', 'C++', 'Go'],
@@ -29,7 +29,7 @@ class CarlosNgv99:
 
 
 if __name__ == '__main__':
-    me = CarlosNgv99()
+    me = Carlosngv()
 
 ```
 ---
