@@ -33,20 +33,15 @@ if __name__ == '__main__':
 
 ```
 
-<hr>
-
-
-
-
-<hr>
+---
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosngv99&&show_icons=true&title_color=000000&icon_color=00B3B9&text_color=000000&bg_color=ffffff">
  
- <hr>
+ ---
  
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosngv99&layout=compact">
 
- <hr>
+---
  
 
 <a href="https://github.com/CarlosNgv99/EjeDelMundo-API">
