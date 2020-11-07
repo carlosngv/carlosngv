@@ -16,12 +16,12 @@ class Carlosngv:
         self.__username = 'carlosngv'
         self.__name = 'Carlos NG',
         self.__skills = {
-            'code' = ['Python', 'JavaScript', 'TypeScript','Java', 'C#', 'C++', 'Go', 'HTML', 'CSS'],
+            'code': ['Python', 'JavaScript', 'TypeScript','Java', 'C#', 'C++', 'Go', 'HTML', 'CSS'],
             'frontend': ['Angular', 'Anuglar Material', 'FxFlex' , 'Boostrap'],
             'backend': ['NodeJS'],
             'database': ['MySQL', 'Mongo DB', 'Oracle DB'],
             'tools': ['Git', 'Docker'],
-            'OS' : ['Ubuntu', 'Manjaro', 'Windows', 'MacOS']
+            'OS': ['Ubuntu', 'Manjaro', 'Windows', 'MacOS']
         }
 
     def __str__(self):
