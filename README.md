@@ -34,7 +34,7 @@ if __name__ == '__main__':
 ```
 ---
  
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosngv&layout=compact">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosngv&layout=compact)](https://github.com/carlosngv/github-readme-stats)
 
 ---
  
