@@ -36,16 +36,6 @@ if __name__ == '__main__':
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosngv&layout=compact)](https://github.com/carlosngv/github-readme-stats)
 
----
- 
-
-<a href="https://github.com/carlosngv/EjeDelMundo-API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosngv&repo=EjeDelMundo-API" />
-</a>
-<a href="https://github.com/carlosngv/chat-nodejs-angular">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosngv&repo=chat-nodejs-angular" />
-</a>
-
 
 ---
 
