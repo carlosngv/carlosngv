@@ -1,12 +1,12 @@
 ## Heeey 🐍
 
 
+![carlosngv99](https://komarev.com/ghpvc/?username=CarlosNgv99)
+
+
+
 #### About me 🤨
 
-
-[![Twitter: Ccrlosngv](https://img.shields.io/twitter/follow/carlosngv?style=social)](https://twitter.com/carlosngv)
-[![GitHub CarlosNgv99](https://img.shields.io/github/followers/carlosngv99?label=follow&style=social)](https://github.com/carlosngv99)
-![carlosngv99](https://komarev.com/ghpvc/?username=CarlosNgv99)
 
 
 ```python
@@ -56,4 +56,7 @@ if __name__ == '__main__':
 </a>
 
 
+---
 
+[![Twitter: Ccrlosngv](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carlosngv)
+[![Linkedin carlosngv](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosngv99/)
