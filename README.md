@@ -4,8 +4,9 @@
 #### About me 🤨
 
 
+[![Twitter: Ccrlosngv](https://img.shields.io/twitter/follow/carlosngv?style=social)](https://twitter.com/carlosngv)
+[![GitHub CarlosNgv99](https://img.shields.io/github/followers/carlosngv99?label=follow&style=social)](https://github.com/carlosngv99)
 ![carlosngv99](https://komarev.com/ghpvc/?username=CarlosNgv99)
-
 
 
 ```python
@@ -33,8 +34,7 @@ if __name__ == '__main__':
 
 <hr>
 
-[![Twitter: Ccrlosngv](https://img.shields.io/twitter/follow/carlosngv?style=social)](https://twitter.com/carlosngv)
-[![GitHub CarlosNgv99](https://img.shields.io/github/followers/carlosngv99?label=follow&style=social)](https://github.com/carlosngv99)
+
 
 
 <hr>
