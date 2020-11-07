@@ -3,6 +3,11 @@
 
 #### About me 🤨
 
+
+![carlosngv99](https://komarev.com/ghpvc/?username=CarlosNgv99)
+
+
+
 ```python
 class CarlosNgv99:
 
@@ -50,6 +55,5 @@ if __name__ == '__main__':
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosNgv99&repo=chat-nodejs-angular" />
 </a>
 
-![carlosngv99](https://komarev.com/ghpvc/?username=CarlosNgv99)
 
 
