@@ -15,7 +15,7 @@ class CarlosNgv99:
     def __init__(self):
         self.__username = 'carlosngv99'
         self.__name = 'Carlos NG',
-        self.__code = {
+        self.__skills = {
             'languages' = ['Python', 'JavaScript', 'TypeScript','Java', 'C#', 'C++', 'Go'],
             'frontend': ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Angular', 'Boostrap'],
             'backend': ['Django', 'NodeJS'],
