@@ -17,7 +17,7 @@ class Carlosngv:
         self.__name = 'Carlos NG',
         self.__skills = {
             'code' = ['Python', 'JavaScript', 'TypeScript','Java', 'C#', 'C++', 'Go', 'HTML', 'CSS'],
-            'frontend': ['Angular', 'Boostrap'],
+            'frontend': ['Angular', 'Anuglar Material', 'FxFlex' , 'Boostrap'],
             'backend': ['NodeJS'],
             'database': ['MySQL', 'Mongo DB', 'Oracle DB'],
             'tools': ['Git', 'Docker'],
