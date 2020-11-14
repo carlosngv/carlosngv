@@ -18,7 +18,7 @@ class Carlosngv:
         self.__skills = {
             'code': ['Python', 'JavaScript', 'TypeScript','Java', 'C#', 'C++', 'Go', 'HTML', 'CSS'],
             'frontend': ['Angular', 'Anuglar Material', 'FxFlex' , 'Boostrap'],
-            'backend': ['NodeJS'],
+            'backend': ['NodeJS', 'Socket.io'],
             'database': ['MySQL', 'Mongo DB', 'Oracle DB'],
             'tools': ['Git', 'Docker'],
             'OS': ['Ubuntu', 'Manjaro', 'Windows', 'MacOS']
