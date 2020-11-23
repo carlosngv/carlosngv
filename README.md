@@ -18,9 +18,9 @@ class Carlosngv:
         self.__skills = {
             'code': ['Python', 'JavaScript', 'TypeScript','Java', 'C#', 'C++', 'Go', 'HTML', 'CSS'],
             'frontend': ['Angular', 'Anuglar Material', 'FxFlex' , 'Boostrap'],
-            'backend': ['NodeJS', 'Socket.io'],
+            'backend': ['NodeJS', 'Django', 'Socket.io'],
             'database': ['MySQL', 'Mongo DB', 'Oracle DB'],
-            'tools': ['Git', 'Docker'],
+            'tools': ['Git', 'Docker', 'Adobe XD', 'Jison', 'Pygame', 'Goyacc'],
             'OS': ['Ubuntu', 'Manjaro', 'Windows', 'MacOS']
         }
 
@@ -30,6 +30,7 @@ class Carlosngv:
 
 if __name__ == '__main__':
     me = Carlosngv()
+    print(str(me)) # Carlos NG
 ```
 ---
 
