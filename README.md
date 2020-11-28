@@ -39,11 +39,6 @@ if __name__ == '__main__':
 [![SongApp](https://github-readme-stats.vercel.app/api/pin/?username=carlosngv&repo=songapp)](https://github.com/carlosngv/SongApp)
 
 ---
-### CodeWars
-
-![Badge](https://www.codewars.com/users/carlosngv/badges/large)
-
----
 
 [![Twitter: carlosngv](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carlosngv)
 [![Linkedin carlosngv](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosngv99/)
