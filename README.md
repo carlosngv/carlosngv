@@ -16,10 +16,10 @@ class Carlosngv:
         self.__username = 'carlosngv'
         self.__name = 'Carlos NG',
         self.__skills = {
-            'code': ['Python', 'JavaScript', 'TypeScript','Java', 'C#', 'C++', 'Go', 'HTML', 'CSS'],
-            'frontend': ['Angular', 'Anuglar Material', 'FxFlex' , 'Boostrap'],
+            'code': ['Python', 'Javascript', 'TypeScript','Java', 'C#', 'C++', 'Go', 'HTML5', 'CSS3'],
+            'frontend': ['Angular', 'React'],
             'backend': ['NodeJS', 'Django', 'Socket.io'],
-            'database': ['MySQL', 'Mongo DB', 'Oracle DB'],
+            'database': ['MySQL', 'MongoDB', 'OracleDB'],
             'tools': ['Git', 'Docker', 'Adobe XD', 'Jison', 'Pygame', 'Goyacc'],
             'OS': ['Ubuntu', 'Manjaro', 'Windows', 'MacOS']
         }
