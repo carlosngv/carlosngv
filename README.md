@@ -34,6 +34,10 @@ if __name__ == '__main__':
 ```
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosngv&layout=compact)](https://github.com/carlsongv/github-readme-stats)
+
+---
+
 [![GTSales](https://github-readme-stats.vercel.app/api/pin/?username=carlosngv&repo=space-invaders)](https://github.com/carlosngv/space-invaders)
 
 [![SongApp](https://github-readme-stats.vercel.app/api/pin/?username=carlosngv&repo=songapp)](https://github.com/carlosngv/SongApp)
