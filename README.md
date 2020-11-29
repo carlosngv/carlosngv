@@ -38,9 +38,9 @@ if __name__ == '__main__':
 
 ---
 
-[![GTSales](https://github-readme-stats.vercel.app/api/pin/?username=carlosngv&repo=space-invaders)](https://github.com/carlosngv/space-invaders)
+[![SpaceInvaders](https://github-readme-stats.vercel.app/api/pin/?username=carlosngv&repo=space-invaders)](https://github.com/carlosngv/space-invaders)
 
-[![SongApp](https://github-readme-stats.vercel.app/api/pin/?username=carlosngv&repo=songapp)](https://github.com/carlosngv/SongApp)
+[![DjangoCRM](https://github-readme-stats.vercel.app/api/pin/?username=carlosngv&repo=django-crm)](https://github.com/carlosngv/Django-CRM)
 
 ---
 
