@@ -20,7 +20,7 @@ class Carlosngv:
             'frontend': ['Angular', 'React'],
             'backend': ['NodeJS', 'Django', 'Socket.io'],
             'database': ['MySQL', 'MongoDB', 'OracleDB'],
-            'tools': ['Git', 'Docker', 'Adobe XD', 'Jison', 'Pygame', 'Goyacc'],
+            'tools': ['Git', 'Docker', 'Adobe XD'],
             'OS': ['Ubuntu', 'Manjaro', 'Windows', 'MacOS']
         }
 
@@ -30,7 +30,7 @@ class Carlosngv:
 
 if __name__ == '__main__':
     me = Carlosngv()
-    print(str(me)) # Carlos NG
+    print(me) # Carlos NG
 ```
 ---
 
