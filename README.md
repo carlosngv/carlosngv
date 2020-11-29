@@ -32,15 +32,16 @@ if __name__ == '__main__':
     me = Carlosngv()
     print(me) # Carlos NG
 ```
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosngv&layout=compact)](https://github.com/carlsongv/github-readme-stats)
 
 ---
 
 [![SpaceInvaders](https://github-readme-stats.vercel.app/api/pin/?username=carlosngv&repo=space-invaders)](https://github.com/carlosngv/space-invaders)
 
 [![DjangoCRM](https://github-readme-stats.vercel.app/api/pin/?username=carlosngv&repo=django-crm)](https://github.com/carlosngv/Django-CRM)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosngv&layout=compact)](https://github.com/carlsongv/github-readme-stats)
 
 ---
 
