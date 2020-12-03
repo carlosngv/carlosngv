@@ -16,7 +16,7 @@ class Carlosngv:
         self.__username = 'carlosngv'
         self.__name = 'Carlos NG',
         self.__skills = {
-            'code': ['Python', 'Javascript', 'TypeScript','Java', 'C#', 'C++', 'Go', 'HTML5', 'CSS3'],
+            'code': ['Python', 'Javascript', 'TypeScript','Java', 'C++', 'Go', 'HTML5', 'CSS3'],
             'frontend': ['Angular', 'React'],
             'backend': ['NodeJS', 'Django', 'Socket.io'],
             'database': ['MySQL', 'MongoDB', 'OracleDB'],
