@@ -4,6 +4,9 @@
 ![carlosngv99](https://komarev.com/ghpvc/?username=carlosngv)
 
 
+<p align="center">
+  <img width="460" height="280" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" alr="Cat">
+</p>
 
 #### Sobre mi 💻
 
