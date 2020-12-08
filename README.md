@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img width="460" height="280" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" alr="Cat">
+  <img width="460" height="230" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" alr="Cat">
 </p>
 
 #### Sobre mi 💻
