@@ -39,9 +39,6 @@ if __name__ == '__main__':
 
 [![DjangoCRM](https://github-readme-stats.vercel.app/api/pin/?username=carlosngv&repo=django-crm)](https://github.com/carlosngv/Django-CRM)
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosngv&layout=compact)](https://github.com/carlsongv/github-readme-stats)
 
 ---
 
