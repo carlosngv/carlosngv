@@ -9,20 +9,22 @@
 
 ```javascript
 
-class Carlosngv {
-  constructor() {
-    this.username = 'carlosngv';
-    this.name = "Carlos Ng';
-    this.skills = {
-      'lng' = ['JavaScript', 'TypeScript', 'C++', 'Python'],
-      'db' = ['MongoDB', 'OracleDB', 'MySQL'],
-      'tools': ['Git', 'Docker', 'Adobe XD'],
-      'OS': ['Ubuntu', 'Manjaro', 'Windows', 'MacOS']
-    }
+const carlosngv = {
+  username: 'carlosngv',
+  name: 'Carlos Ng',
+  skills: {
+      lng: ['JavaScript', 'TypeScript', 'C++', 'Python'],
+      db: ['MongoDB', 'OracleDB', 'MySQL'],
+      tools: ['Git', 'Docker', 'Adobe XD'],
+      OS: ['Ubuntu', 'Windows', 'MacOS']
   }
 }
 
-const carlosngv = new Carlosngv();
+
+const { username } = carlosngv;
+
+console.log(`Welcomde to mu github page: ${username}`)
+
 ```
 
 
