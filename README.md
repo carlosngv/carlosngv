@@ -27,9 +27,9 @@ const carlosngv = new Carlosngv();
 
 ---
 
-[![SpaceInvaders](https://github-readme-stats.vercel.app/api/pin/?username=carlosngv&repo=space-invaders)](https://github.com/carlosngv/space-invaders)
+[![Dischat](https://github.com/carlosngv/Dischat)
 
-[![DjangoCRM](https://github-readme-stats.vercel.app/api/pin/?username=carlosngv&repo=django-crm)](https://github.com/carlosngv/Django-CRM)
+[![SongApp](https://github.com/carlosngv/SongApp)
 
 
 ---
