@@ -27,9 +27,9 @@ const carlosngv = new Carlosngv();
 
 ---
 
-[![Dischat](https://github.com/carlosngv/Dischat)
+[![Dischat](https://github.com/carlosngv/Dischat)]
 
-[![SongApp](https://github.com/carlosngv/SongApp)
+[![SongApp](https://github.com/carlosngv/SongApp)]
 
 
 ---
