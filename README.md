@@ -23,7 +23,7 @@ const carlosngv = {
 
 const { username } = carlosngv;
 
-console.log(`Welcomde to mu github page: ${username}`)
+console.log(`Bienvenido a mi página de github: ${username}`)
 
 ```
 
