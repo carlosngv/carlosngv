@@ -3,27 +3,27 @@
   <img width="460" height="230" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" alr="Cat">
 </p>
 
-#### Sobre mi 💻
+#### About me 💻
 
 
 
 ```javascript
 
-const carlosngv = {
+const me = {
   username: 'carlosngv',
   name: 'Carlos Ng',
   skills: {
-      lng: ['JavaScript', 'TypeScript', 'C++', 'Python'],
+      lng: ['JavaScript', 'Python', 'Swift','TypeScript'],
       db: ['MongoDB', 'OracleDB', 'MySQL'],
       tools: ['Git', 'Docker', 'Adobe XD'],
       OS: ['Linux', 'Windows', 'MacOS']
   }
-}
+};
 
 
-const { username } = carlosngv;
+const { name } = me;
 
-console.log(`Bienvenido a mi página de github: ${username}`)
+console.log(`Hi, I'm ${ name }, welcome to my github profile!`);
 
 ```
 
