@@ -17,7 +17,7 @@ const me = {
   username: 'carlosngv',
   name: 'Carlos Ng',
   skills: {
-      programmingLng: ['JavaScript', 'Python','TypeScript', C#],
+      programmingLng: ['JavaScript', 'Python','TypeScript', 'C#'],
       db: ['MongoDB', 'MySQL'],
       tools: ['Git', 'Docker'],
       OS: ['Linux', 'Windows', 'MacOS'],
