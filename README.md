@@ -13,10 +13,11 @@ const me = {
   username: 'carlosngv',
   name: 'Carlos Ng',
   skills: {
-      lng: ['JavaScript', 'Python', 'Swift','TypeScript'],
-      db: ['MongoDB', 'OracleDB', 'MySQL'],
-      tools: ['Git', 'Docker', 'Adobe XD'],
-      OS: ['Linux', 'Windows', 'MacOS']
+      programmingLng: ['JavaScript', 'Python','TypeScript', C#],
+      db: ['MongoDB', 'MySQL'],
+      tools: ['Git', 'Docker'],
+      OS: ['Linux', 'Windows', 'MacOS'],
+      RPA: ['Automation 360', 'UIPath'],
   }
 };
 
