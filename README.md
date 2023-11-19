@@ -5,7 +5,7 @@
 
 #### About me 💻
 
-I'm a RPA developer with 2 years of experience automating processes using RPA tools, such as Automation Anywhere and UIPath. Officially certified RPA developer by Automation Anywhere, focused on the Automation 360 and Automation Anywhere V11 tools (Advanced RPA Developer and Master certification with Automation 360).
+I'm a RPA developer with 2 years of experience automating processes using RPA tools, such as Automation Anywhere and UIPath. Officially certified RPA developer by Automation Anywhere, focused on the Automation 360 and Automation Anywhere V11 tools (Advanced RPA Developer and Master certification with Automation 360 - 2022).
 
 Self-taught, with teamwork capability, experience working with agile methodologies, and constantly learning.
 
@@ -43,7 +43,7 @@ console.log(`Hi, I'm ${ name }, welcome to my github profile!`);
 ---
 
 [![Twitter: carlosngv](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carlosngv)
-[![Linkedin carlosngv](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosngv99/)
+[![Linkedin carlosngv](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosngv/)
 <br><br>
 ![carlosngv99](https://komarev.com/ghpvc/?username=carlosngv)
 
