@@ -5,32 +5,9 @@
 
 #### About me 💻
 
-I'm a RPA developer with almost 3 years of experience automating processes using RPA tools, such as Automation Anywhere and UIPath. Officially certified RPA developer by Automation Anywhere, focused on the Automation 360 and Automation Anywhere V11 tools (Advanced RPA Developer and Master certification with Automation 360 - 2022).
+Software developer with over 3 years of professional experience, with a solid foundation in process automation using RPA and strong expertise in web development with JavaScript, TypeScript, React, Angular, Node.js, as well as relational and non-relational databases. 
 
-Self-taught, with teamwork capability, experience working with agile methodologies, and constantly learning.
-
-Currently learning all about data analysis.
-
-```javascript
-
-const me = {
-  username: 'carlosngv',
-  name: 'Carlos Ng',
-  skills: {
-      programmingLng: ['JavaScript', 'Python','TypeScript', 'C#'],
-      db: ['MongoDB', 'MySQL'],
-      tools: ['Git', 'Docker'],
-      OS: ['Linux', 'Windows', 'MacOS'],
-      RPA: ['Automation 360', 'UIPath'],
-  }
-};
-
-
-const { name } = me;
-
-console.log(`Hi, I'm ${ name }, welcome to my github profile!`);
-
-```
+My background includes experience in requirements gathering, analysis, development, implementation, and process optimization; focused on achieving objectives, adding value through teamwork, contributing ideas, and taking initiative.
 
 
 ---
