@@ -8,6 +8,7 @@
 I'm a Computer Science and Systems Engineer from Guatemala with over 4 years of professional experience. My work spans process automation with RPA, AI-powered product development, and full-stack web engineering.
 
 I specialize in implementing LLM-based systems and building AI-driven products — from recruitment platforms powered by language models to digital signature systems with conversational AI agents. I thrive in agile teams and enjoy turning complex problems into elegant solutions.
+
 ---
 
 <h3>frameworks, languages and tools</h3>
