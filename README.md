@@ -5,11 +5,9 @@
 
 #### About me 💻
 
-Software developer with over 3 years of professional experience, with a solid foundation in process automation using RPA and strong expertise in web development with JavaScript, TypeScript, React, Angular, Node.js, as well as relational and non-relational databases. 
+I'm a Computer Science and Systems Engineer from Guatemala with over 4 years of professional experience. My work spans process automation with RPA, AI-powered product development, and full-stack web engineering.
 
-My background includes experience in requirements gathering, analysis, development, implementation, and process optimization; focused on achieving objectives, adding value through teamwork, contributing ideas, and taking initiative.
-
-
+I specialize in implementing LLM-based systems and building AI-driven products — from recruitment platforms powered by language models to digital signature systems with conversational AI agents. I thrive in agile teams and enjoy turning complex problems into elegant solutions.
 ---
 
 <h3>frameworks, languages and tools</h3>
